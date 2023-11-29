@@ -1,4 +1,4 @@
-# demo for python on kube application
+# demo for python app on minikube
 
 * simple python Flask application.
 * run application locally
